@@ -42,14 +42,20 @@ yuz-tanima-projesi/
 
 Sistem, yüz ifadenizi analiz ederek aşağıdaki yedi temel duygudan birini tespit eder ve buna göre çalışma önerisinde bulunur:
 
-Duygu               Açıklama
+Duygu               /Açıklama
 
 Happy (Mutlu)       :Enerjin yüksek! Bu verimlilikle daha önce zorlandığın konulara odaklanmak için mükemmel bir zaman.
+
 Sad (Üzgün)         :Biraz keyfin kaçmış gibi. Daha hafif ve ilgini çeken konularla başlamak motivasyonunu artırabilir. Belki kısa bir mola da iyi gelebilir.
+
 Angry (Sinirli)     :Öfkelisin. Hemen çalışmaya başlamadan önce kısa bir yürüyüş yapabilir, nefes egzersizleriyle rahatlayabilirsin. Ardından sade konularla devam etmek en iyisi.
+
 Surprise (Şaşırmış) :Beklenmedik bir ruh halindesin. Bu şaşkınlık duygusunu yeni bir şey öğrenmek için kullanabilirsin. Yeni bir konu keşfetmenin tam zamanı!
+
 Fear (Korku/Endişe) :Endişelisin. Kolay ve temel konularla başla, kendine güvenin arttıkça daha zor konulara geçebilirsin.
+
 Neutral (Nötr)      :Duygusal olarak dengedesin. Mevcut çalışma programınla devam etmen için uygun bir zaman.
+
 Disgust (İğrenme)   :Kendini motive etmekte zorlanıyor olabilirsin. Kısa ve ilgi çekici bir video izleyip ardından düşük tempolu bir çalışmayla başlamak sana iyi gelir.
 
 🛠️ Kurulum
