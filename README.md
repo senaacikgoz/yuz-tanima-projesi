@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# yuz-tanima-projesi
-=======
 📚 Yüz İfadelerine Göre Çalışma Öneri Sistemi
 
 Bu proje, yapay zeka ve duygu analizini birleştirerek yüz ifadesi üzerinden öğrencinin ruh halini algılar ve buna uygun çalışma önerileri sunar. Amaç, öğrencinin duygusal durumuna göre daha verimli ve kişiselleştirilmiş bir öğrenme deneyimi sağlamaktır.
@@ -82,5 +79,3 @@ Web arayüzü veya mobil uygulama entegrasyonu.
 Öğrenci profiline göre önerilerin kişiselleştirilmesi.
 
 Duygu analizi sonrası otomatik içerik öneri sistemi (video, konu, ders).
-
->>>>>>> a69992c (İlk proje yüklemesi: duyguya göre çalışma öneri sistemi)
