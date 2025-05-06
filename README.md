@@ -24,11 +24,17 @@ Yeni nesil eğitim çözümleri geliştirmek için tasarlanan bu sistem, gerçek
 
 yuz-tanima-projesi/
 │
+
 ├── venv/                    # Sanal ortam
+
 ├── main.py                  # Kamera ve yüz tanıma uygulaması
+
 ├── emotion_utils.py         # DeepFace ile duygu analizi
+
 ├── suggestion_utils.py      # Duyguya göre öneriler
+
 ├── requirements.txt         # Gereken kütüphaneler
+
 └── README.md                # Proje açıklaması
 
 
