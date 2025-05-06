@@ -50,7 +50,7 @@ Disgust (İğrenme)   :Kendini motive etmekte zorlanıyor olabilirsin. Kısa ve 
 
 Projeyi çalıştırmak için aşağıdaki adımları izleyin:
 
-```bash
+
 # Sanal ortam oluşturun
 python -m venv venv
 source venv/bin/activate  
